@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning "Machine Learning".
+I am interested in machine learning and app development.
+
+### Kaggle
+- Feedback Prize - English Language Learning: solo silver medal🥈 (22nd/2654)
 
 <!--
 **moritake04/moritake04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
