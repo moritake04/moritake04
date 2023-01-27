@@ -2,7 +2,7 @@
 
 I am interested in machine learning and app development.
 
-### Kaggle
+### Kaggle ([my account](https://www.kaggle.com/moritake04))
 - Feedback Prize - English Language Learning: solo silver medal🥈 (22nd/2654)
 
 <!--
