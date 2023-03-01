@@ -4,6 +4,7 @@ I am interested in machine learning and app development.
 
 ### Kaggle ([my account](https://www.kaggle.com/moritake04))
 - Feedback Prize - English Language Learning: solo silver medal🥈 (22nd/2654)
+- RSNA Screening Mammography Breast Cancer Detection: solo gold medal🥇 (10th/1687)
 
 <!--
 **moritake04/moritake04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
