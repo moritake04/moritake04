@@ -4,6 +4,7 @@ I am interested in machine learning and app development.
 
 ### Kaggle ([my account](https://www.kaggle.com/moritake04))
 I am now a Kaggle Competitions Master. (🥇Gold x1, 🥈Silver x2, 🥉Bronze x0)
+- [July, 2023] HuBMAP - Hacking the Human Vasculature: solo silver medal 🥈 (19th/1064)
 - [May, 2023] BirdCLEF 2023: team silver medal 🥈 (20th/1189)
 - [February, 2023] RSNA Screening Mammography Breast Cancer Detection: solo gold medal 🥇 (10th/1687)
 - [November, 2022] Feedback Prize - English Language Learning: solo silver medal 🥈 (22nd/2654)
